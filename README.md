@@ -1,8 +1,6 @@
 ## 💫 About Me
 
 💬 Ask me about **C++, Python, Apache Kafka, and Data Structures & Algorithms**
-⚡ Fun fact: When I'm not coding, I'm usually hitting the gym, playing story-mode games, or reading detective and fantasy novels!
-
 ---
 
 ## 🌐 Socials:
