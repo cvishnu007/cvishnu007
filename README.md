@@ -1,7 +1,7 @@
 ## 💫 About Me
 
-💬 Ask me about **C++, Python, Apache Kafka, and Data Structures & Algorithms**
 ---
+💬 Ask me about **C++, Python, Apache Kafka, and Data Structures & Algorithms**
 
 ## 🌐 Socials:
 
