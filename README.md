@@ -48,15 +48,11 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cvishnu007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Vishnu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvishnu007&theme=tokyonight&hide_border=true" alt="Vishnu's GitHub Streak" />
-</p>
+![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvishnu007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Vishnu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cvishnu007&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cvishnu007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Vishnu's Trophies" />
-</p>
+![Vishnu's Trophies](https://github-profile-trophy.vercel.app/?username=cvishnu007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
