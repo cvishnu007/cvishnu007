@@ -47,12 +47,5 @@
 ---
 
 ## 📊 GitHub Stats:
-
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvishnu007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1)
 ![Vishnu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cvishnu007&theme=tokyonight&hide_border=true)
 
----
-
-## 🏆 GitHub Trophies
-
-![Vishnu's Trophies](https://github-profile-trophy.vercel.app/?username=cvishnu007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1)
